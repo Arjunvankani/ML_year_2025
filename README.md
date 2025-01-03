@@ -12,3 +12,6 @@ git push -u origin main
 
 Basic of Keras (Sequncial Model)
 
+image_classification_from_scratch
+
+
